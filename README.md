@@ -6,3 +6,6 @@ vascular disease need early detection and management where machine learning mode
 help.
 Outcome: Recall score of 91% is achieved on test set using Logistic model.
 Key skills: Python, pandas, EDA, SLC, visualization.
+
+
+CAPSTONE-2021.ipynb has the python code and Capstone project.pdf has the project details.
